@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T10:23:56.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7Xa_w3nGTVapQljb6ax9" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T10:26:09.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yiXQ3TCbHa6mBMr4KOIv" version="16.2.4" type="github">
   <diagram id="dGMib69D_cBfETXL7jhn" name="Page-1">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,9 +178,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMQHemcvJotVO2MOoGLu-25" value="Bán" style="rhombus;whiteSpace=wrap;html=1;startSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="385" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="pMQHemcvJotVO2MOoGLu-39" value="" style="endArrow=none;html=1;rounded=0;shadow=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uv5CzfROaBmRkuvhpo79-41" target="L0eSTbh8aa3jM8EI-2dH-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="503" y="545" as="sourcePoint" />
@@ -193,9 +190,6 @@
         </mxCell>
         <mxCell id="pMQHemcvJotVO2MOoGLu-76" value="Thanh toán" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="34" y="230" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pMQHemcvJotVO2MOoGLu-77" value="Bán" style="rhombus;whiteSpace=wrap;html=1;startSize=50;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="385" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMQHemcvJotVO2MOoGLu-105" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="224" y="40" width="60" height="30" as="geometry" />
