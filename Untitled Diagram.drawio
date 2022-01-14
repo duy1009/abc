@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T14:23:19.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rZjazN5zLp-nPBZt2ufu" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T15:43:55.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FGA78JfuIKv2tk0CnGAB" version="16.2.7" type="github">
   <diagram id="dGMib69D_cBfETXL7jhn" name="Page-1">
-    <mxGraphModel dx="569" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uv5CzfROaBmRkuvhpo79-90" value="Sản phẩm" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="593" y="50" width="140" height="150" as="geometry">
+          <mxGeometry x="593" y="50" width="140" height="180" as="geometry">
             <mxRectangle x="460" y="350" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -92,11 +92,14 @@
         <mxCell id="uv5CzfROaBmRkuvhpo79-92" value="Tên sản phẩm   " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" parent="uv5CzfROaBmRkuvhpo79-90" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uv5CzfROaBmRkuvhpo79-93" value="Bảo hành" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" parent="uv5CzfROaBmRkuvhpo79-90" vertex="1">
+        <mxCell id="G7uIhREWeQb-uxejmuVQ-1" value="Giá bán" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" vertex="1" parent="uv5CzfROaBmRkuvhpo79-90">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L0eSTbh8aa3jM8EI-2dH-4" value="Mô tả" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" parent="uv5CzfROaBmRkuvhpo79-90" vertex="1">
+        <mxCell id="uv5CzfROaBmRkuvhpo79-93" value="Bảo hành" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" parent="uv5CzfROaBmRkuvhpo79-90" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L0eSTbh8aa3jM8EI-2dH-4" value="Mô tả" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#1D3557;" parent="uv5CzfROaBmRkuvhpo79-90" vertex="1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uv5CzfROaBmRkuvhpo79-140" value="Khách hàng" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="104" y="310" width="140" height="150" as="geometry">
